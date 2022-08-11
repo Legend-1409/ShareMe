@@ -1,0 +1,21 @@
+For backend, we have use sanity
+
+To start backend: 
+
+sanity start (To start the backend)
+sanity manage (To open sanity portal which contains info of our project)
+sanity deploy (To deploy the sanity desk so that other user can operate)
+
+
+For fronted, we have use 
+1. tailwind CSS for styling
+2. react JS
+
+
+To start frontend: 
+
+npm run start (To start the development server)
+npm run build (To build the project)
+
+Online hosted 
+https://shareme-1409.netlify.app/
